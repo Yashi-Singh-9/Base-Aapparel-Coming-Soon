@@ -37,12 +37,10 @@ Users should be able to:
 ![Base Apparel Coming Soon](design/desktop-design.jpg)
 ![Base Apparel Coming Soon](design/mobile-design.jpg)
 
-*(Add a screenshot of your project here)*
-
 ### **Links**
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/base-aapparel-coming-soon-IoTHFD0NZ5)
+- Live Site URL: [Live](https://base-aapparel-coming-soon-by-yashi.netlify.app)
 
 ---
 
